@@ -1,15 +1,8 @@
-<div align="center">
-    <h1 align="center"> Deep Floyd IF with Multiple GPU</h1>
-    <p>Serve state-of-the-art stable diffusion model with multiple GPU with ease.
-        </br>
-        <i>Powered by BentoML 🍱 + <a href="https://stability.ai/">StabilityAI</a> 🎨 + HuggingFace 🤗</i>
-    </p>
-</div>
 
 ## 📖 Introduction 📖
 - 🧪 **Stable Diffusion**: Stable Diffusion is a deep learning, text-to-image model primarily used to generate detailed images conditioned on text descriptions.
 
-- 🔮 **[IF by DeepFloyd Lab](https://github.com/deep-floyd/IF)**: IF is a novel state-of-the-art open-source text-to-image model with a high degree of photorealism and language understanding.
+- 🔮 **[IF by DeepFloyd Lab](https://github.com/pereira90-ai/tti-mul-gpu)**: IF is a novel state-of-the-art open-source text-to-image model with a high degree of photorealism and language understanding.
 
 - 🚀 **BentoML with IF and GPUs**: In this project, BentoML demonstrate how to serve IF models easily across multiple GPU
 
@@ -83,7 +76,3 @@ For this project, as it requires huge GPU devices which we typically do not have
 
 Otherwise, BentoML offers a number of options for deploying and hosting online ML services into production, learn more at [Deploying Bento](https://docs.bentoml.org/en/latest/concepts/deploy.html).
 
-
-## 👥 Community 👥
-BentoML has a thriving open source community where thousands of ML/AI practitioners are 
-contributing to the project, helping other users and discussing the future of AI. 👉 [Pop into our Slack community!](https://l.bentoml.com/join-slack)
